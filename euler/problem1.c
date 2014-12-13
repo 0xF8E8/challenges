@@ -14,7 +14,5 @@ int main () {
     }
     printf  ("%d\n", sum);
     
-    puts (sum);
-    
     return 0;
 }
